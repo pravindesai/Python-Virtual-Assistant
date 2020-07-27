@@ -2,7 +2,7 @@
 """
 Created on Tue Sep 17 16:17:35 2019
 
-@author: BATMAN
+@author: PRAVIN DESAI
 """
 import wx
 import wolframalpha
