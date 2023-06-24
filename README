@@ -1,3 +1,13 @@
 +++ PYTHON Virtual Assistant  +++
-This uses wolframalpha and wikipedia to give search results
-based on question asked or keyword entered.
+This uses Wolframalpha and Wikipedia to give search results
+based on the question asked or the keyword entered.
+
+
+CD to project file
+pip install wolframalpha
+pip install -U wxPython
+pip install Wikipedia
+
+
+then 
+python MainFile.py
